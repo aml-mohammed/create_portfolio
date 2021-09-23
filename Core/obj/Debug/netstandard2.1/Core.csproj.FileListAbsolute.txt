@@ -1,0 +1,9 @@
+G:\.net core\MHportoflio\MHportoflio\Core\bin\Debug\netstandard2.1\Core.deps.json
+G:\.net core\MHportoflio\MHportoflio\Core\bin\Debug\netstandard2.1\Core.dll
+G:\.net core\MHportoflio\MHportoflio\Core\bin\Debug\netstandard2.1\Core.pdb
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.dll
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.pdb
+G:\.net core\MHportoflio\MHportoflio\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache

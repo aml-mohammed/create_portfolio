@@ -1,0 +1,9 @@
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+G:\.net core\MHportoflio\MHportoflio\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
